@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+In the game, you can see the ruins of the once glorious temple. From the statues inside, you can see that it is a temple of Ganesha.
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,14 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **Processor** | Min: Intel Pentium G4560 / AMD FX 8300 / Rec: Intel Core i5-4590 / AMD FX 8350 or higher | Intel Core i5 / Apple M1 |
+| **Memory** | Min: 8 GB RAM / Rec: 16 GB RAM | 8 GB RAM |
+| **Graphics** | Min: NVIDIA GTX  1050 / Rec: NVIDIA GTX  1050 or higher | Metal-capable GPU |
+| **DirectX** | Version 11 | Version 11 |
+| **Storage** | Min: 7 GB available space / Rec: 10 GB available space | 7 GB available space |
+| **OS *** | Microsoft Windows 7 | Microsoft Windows 7 |
+| **Sound Card** | NVIDIA High Definition Audio | NVIDIA High Definition Audio |
+| **VR Support** | SteamVR | SteamVR |
 
 ---
 
